@@ -1,2 +1,2 @@
 # Maze-Game
-game about mazes
+In this project, 
